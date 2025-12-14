@@ -1,9 +1,8 @@
 # PROYECTO DEVOPS - SIMPLE Y FUNCIONAL 
  
 ## Integrantes 
-- [Tu Nombre] 
-- [Nombre Compañero 1] 
-- [Nombre Compañero 2] 
+Iuribel Gomez
+Keiry
  
 ## Descripción 
 Proyecto práctico que demuestra un pipeline CI/CD completo con Docker y GitHub Actions. 

@@ -2,7 +2,7 @@
  
 ## Integrantes 
 Iuribel Gomez
-Keiry
+Keiry Rodriguez
  
 ## Descripción 
 Proyecto práctico que demuestra un pipeline CI/CD completo con Docker y GitHub Actions. 
